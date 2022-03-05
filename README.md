@@ -20,4 +20,4 @@ The nodes that are considered are then added to the open set. The open set has i
 
 We look in the open set and select the node which has the shortest F score. The node is selected and the above steps are repeated for the node.
 
-<img src=demo.git width=500 height=auto />
+<img src=demo.gif width=500 height=auto />
