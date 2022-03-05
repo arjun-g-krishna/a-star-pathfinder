@@ -19,3 +19,5 @@ In the beginning, the start node has its F,G and H values as 0. The other nodes 
 The nodes that are considered are then added to the open set. The open set has its values stored in the format (distance,node). For example (2,C).
 
 We look in the open set and select the node which has the shortest F score. The node is selected and the above steps are repeated for the node.
+
+<img src=demo.git width=500 height=auto />
